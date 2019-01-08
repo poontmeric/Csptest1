@@ -1,8 +1,10 @@
-
-  <head>
-    <link rel="stylesheet" type="text/css" href="mytestweb.css">
-  </head>
+ h1 {
+         color: blue;
+         font-size: 28pt;
+      }
+      body {
+          background-image: url("fire-flames-png-fire-png-image-1600.png")
+      }
+     
   
-  <b>
-    background-image: url("fire-flames-png-fire-png-image-1600.png") 
-    </b>
+
