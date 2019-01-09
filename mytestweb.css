@@ -1,8 +1,9 @@
- h1 {
+ p {
+  text-color: "white";
 }
       body {
           background-image: url("pathway.jpg");
-           background-repeat: no-repeat;
+          background-repeat: no-repeat;
 
       }
      
