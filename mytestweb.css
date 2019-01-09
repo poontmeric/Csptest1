@@ -1,9 +1,11 @@
  h1 {
          color: black;
-         font-size: 50pt;
+         font-size: 28pt;
       }
       body {
           background-image: url("pathway.jpg")
+           background-repeat: no-repeat;
+
       }
      
   
