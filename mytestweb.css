@@ -1,5 +1,9 @@
- p {
-  text-color: "white";
+ h1 {
+  color: White;
+  font-size: 36pt;
+}
+p {
+  color: White;
 }
       body {
           background-image: url("pathway.jpg");
