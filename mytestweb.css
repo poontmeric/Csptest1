@@ -7,10 +7,12 @@ p {
 }
 
       body {
-          background-image: url("pathway.jpg" width ="50%" height ="50%");
-          background-repeat: no-repeat;
+          }
+      
+.bg-image{
 
-      }
-     
-  
+background-image: url("pathway.jpg");
+background-repeat: no-repeat;
+
+}
 
