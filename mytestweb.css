@@ -5,6 +5,10 @@
 p {
   color: White;
 }
+div.b {
+  height: 50px;
+  border: 1px solid black;  
+}
       body {
           background-image: url("pathway.jpg");
           background-repeat: no-repeat;
