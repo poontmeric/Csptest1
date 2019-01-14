@@ -12,8 +12,9 @@ p {
 .bg-image{
 
 background-image: url("pathway.jpg");
+ height:500px
 background-repeat: no-repeat;
- height:5000%;
+
 
 }
 
